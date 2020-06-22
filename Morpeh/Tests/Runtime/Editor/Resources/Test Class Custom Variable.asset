@@ -9,8 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fc3284eace5a64d4bb516df7d7effdb9, type: 3}
-  m_Name: PunSceneSettingsFile
+  m_Script: {fileID: 11500000, guid: 9d9335c346a5ce54e873c05a277e79a5, type: 3}
+  m_Name: Test Class Custom Variable
   m_EditorClassIdentifier: 
-  SceneSettingsListFoldoutOpen: 1
-  MinViewIdPerScene: []
+  value:
+    clang: 0
+    cpp: 0
+    csharp: 0
+  customKey: 67118deb4d6b46f6b11d8777852326a2
+  AutoSave: 1
